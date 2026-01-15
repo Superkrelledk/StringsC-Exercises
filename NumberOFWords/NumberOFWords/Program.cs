@@ -6,9 +6,9 @@ namespace NumbersOfWords
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(NumbersOfWords("This is Samle sentence"));
+            Console.WriteLine(NumbersOfWords("This is sample sentence"));
             
-            Console.WriteLine(NumbersOfWords("Ok"));
+            Console.WriteLine(NumbersOfWords("OK"));
             Console.ReadLine();
         }
 
@@ -21,7 +21,7 @@ namespace NumbersOfWords
                 // Mellemrum tæller som et ord
                 if (c == ' ')
                 {
-                    // Øg længden med 1 for hvert mellemrum
+                    // Øger længden med 1 for hvert mellemrum
                     length++;
                 }
             }
