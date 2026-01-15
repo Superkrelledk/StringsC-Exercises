@@ -1,0 +1,15 @@
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\SortCharactersDescending\SortCharactersDescending\bin\Debug\net9.0\SortCharactersDescending.exe
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\SortCharactersDescending\SortCharactersDescending\bin\Debug\net9.0\SortCharactersDescending.deps.json
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\SortCharactersDescending\SortCharactersDescending\bin\Debug\net9.0\SortCharactersDescending.runtimeconfig.json
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\SortCharactersDescending\SortCharactersDescending\bin\Debug\net9.0\SortCharactersDescending.dll
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\SortCharactersDescending\SortCharactersDescending\bin\Debug\net9.0\SortCharactersDescending.pdb
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\SortCharactersDescending\SortCharactersDescending\obj\Debug\net9.0\SortCharactersDescending.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\SortCharactersDescending\SortCharactersDescending\obj\Debug\net9.0\SortCharactersDescending.AssemblyInfoInputs.cache
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\SortCharactersDescending\SortCharactersDescending\obj\Debug\net9.0\SortCharactersDescending.AssemblyInfo.cs
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\SortCharactersDescending\SortCharactersDescending\obj\Debug\net9.0\SortCharactersDescending.csproj.CoreCompileInputs.cache
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\SortCharactersDescending\SortCharactersDescending\obj\Debug\net9.0\SortCharactersDescending.sourcelink.json
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\SortCharactersDescending\SortCharactersDescending\obj\Debug\net9.0\SortCharactersDescending.dll
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\SortCharactersDescending\SortCharactersDescending\obj\Debug\net9.0\refint\SortCharactersDescending.dll
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\SortCharactersDescending\SortCharactersDescending\obj\Debug\net9.0\SortCharactersDescending.pdb
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\SortCharactersDescending\SortCharactersDescending\obj\Debug\net9.0\SortCharactersDescending.genruntimeconfig.cache
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\SortCharactersDescending\SortCharactersDescending\obj\Debug\net9.0\ref\SortCharactersDescending.dll
