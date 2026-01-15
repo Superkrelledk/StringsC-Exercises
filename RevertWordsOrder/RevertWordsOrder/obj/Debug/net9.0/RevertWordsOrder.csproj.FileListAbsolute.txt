@@ -1,0 +1,15 @@
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\RevertWordsOrder\RevertWordsOrder\bin\Debug\net9.0\RevertWordsOrder.exe
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\RevertWordsOrder\RevertWordsOrder\bin\Debug\net9.0\RevertWordsOrder.deps.json
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\RevertWordsOrder\RevertWordsOrder\bin\Debug\net9.0\RevertWordsOrder.runtimeconfig.json
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\RevertWordsOrder\RevertWordsOrder\bin\Debug\net9.0\RevertWordsOrder.dll
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\RevertWordsOrder\RevertWordsOrder\bin\Debug\net9.0\RevertWordsOrder.pdb
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\RevertWordsOrder\RevertWordsOrder\obj\Debug\net9.0\RevertWordsOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\RevertWordsOrder\RevertWordsOrder\obj\Debug\net9.0\RevertWordsOrder.AssemblyInfoInputs.cache
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\RevertWordsOrder\RevertWordsOrder\obj\Debug\net9.0\RevertWordsOrder.AssemblyInfo.cs
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\RevertWordsOrder\RevertWordsOrder\obj\Debug\net9.0\RevertWordsOrder.csproj.CoreCompileInputs.cache
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\RevertWordsOrder\RevertWordsOrder\obj\Debug\net9.0\RevertWordsOrder.sourcelink.json
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\RevertWordsOrder\RevertWordsOrder\obj\Debug\net9.0\RevertWordsOrder.dll
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\RevertWordsOrder\RevertWordsOrder\obj\Debug\net9.0\refint\RevertWordsOrder.dll
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\RevertWordsOrder\RevertWordsOrder\obj\Debug\net9.0\RevertWordsOrder.pdb
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\RevertWordsOrder\RevertWordsOrder\obj\Debug\net9.0\RevertWordsOrder.genruntimeconfig.cache
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\RevertWordsOrder\RevertWordsOrder\obj\Debug\net9.0\ref\RevertWordsOrder.dll
