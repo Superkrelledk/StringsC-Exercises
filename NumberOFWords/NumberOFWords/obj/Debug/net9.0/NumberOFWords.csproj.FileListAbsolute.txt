@@ -1,0 +1,15 @@
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\NumberOFWords\NumberOFWords\bin\Debug\net9.0\NumberOFWords.exe
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\NumberOFWords\NumberOFWords\bin\Debug\net9.0\NumberOFWords.deps.json
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\NumberOFWords\NumberOFWords\bin\Debug\net9.0\NumberOFWords.runtimeconfig.json
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\NumberOFWords\NumberOFWords\bin\Debug\net9.0\NumberOFWords.dll
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\NumberOFWords\NumberOFWords\bin\Debug\net9.0\NumberOFWords.pdb
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\NumberOFWords\NumberOFWords\obj\Debug\net9.0\NumberOFWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\NumberOFWords\NumberOFWords\obj\Debug\net9.0\NumberOFWords.AssemblyInfoInputs.cache
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\NumberOFWords\NumberOFWords\obj\Debug\net9.0\NumberOFWords.AssemblyInfo.cs
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\NumberOFWords\NumberOFWords\obj\Debug\net9.0\NumberOFWords.csproj.CoreCompileInputs.cache
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\NumberOFWords\NumberOFWords\obj\Debug\net9.0\NumberOFWords.sourcelink.json
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\NumberOFWords\NumberOFWords\obj\Debug\net9.0\NumberOFWords.dll
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\NumberOFWords\NumberOFWords\obj\Debug\net9.0\refint\NumberOFWords.dll
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\NumberOFWords\NumberOFWords\obj\Debug\net9.0\NumberOFWords.pdb
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\NumberOFWords\NumberOFWords\obj\Debug\net9.0\NumberOFWords.genruntimeconfig.cache
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\NumberOFWords\NumberOFWords\obj\Debug\net9.0\ref\NumberOFWords.dll
