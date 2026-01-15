@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\u50716\\Desktop\\StringsC#Exercises\\AddSeparator\\AddSeparator.csproj",
+      "projectUniqueName": "C:\\Users\\u50716\\Desktop\\IntroOpgaverH1\\StringsC#Exercises\\AddSeparator\\AddSeparator.csproj",
       "projectName": "AddSeparator",
-      "projectPath": "C:\\Users\\u50716\\Desktop\\StringsC#Exercises\\AddSeparator\\AddSeparator.csproj",
+      "projectPath": "C:\\Users\\u50716\\Desktop\\IntroOpgaverH1\\StringsC#Exercises\\AddSeparator\\AddSeparator.csproj",
       "packagesPath": "C:\\Users\\u50716\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\u50716\\Desktop\\StringsC#Exercises\\AddSeparator\\obj\\",
+      "outputPath": "C:\\Users\\u50716\\Desktop\\IntroOpgaverH1\\StringsC#Exercises\\AddSeparator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\u50716\\AppData\\Roaming\\NuGet\\NuGet.Config"

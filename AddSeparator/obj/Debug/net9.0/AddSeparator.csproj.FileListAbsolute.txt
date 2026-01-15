@@ -1,0 +1,14 @@
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\AddSeparator\obj\Debug\net9.0\AddSeparator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\AddSeparator\obj\Debug\net9.0\AddSeparator.AssemblyInfoInputs.cache
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\AddSeparator\obj\Debug\net9.0\AddSeparator.AssemblyInfo.cs
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\AddSeparator\obj\Debug\net9.0\AddSeparator.csproj.CoreCompileInputs.cache
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\AddSeparator\bin\Debug\net9.0\AddSeparator.exe
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\AddSeparator\bin\Debug\net9.0\AddSeparator.deps.json
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\AddSeparator\bin\Debug\net9.0\AddSeparator.runtimeconfig.json
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\AddSeparator\bin\Debug\net9.0\AddSeparator.dll
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\AddSeparator\bin\Debug\net9.0\AddSeparator.pdb
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\AddSeparator\obj\Debug\net9.0\AddSeparator.dll
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\AddSeparator\obj\Debug\net9.0\refint\AddSeparator.dll
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\AddSeparator\obj\Debug\net9.0\AddSeparator.pdb
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\AddSeparator\obj\Debug\net9.0\AddSeparator.genruntimeconfig.cache
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\AddSeparator\obj\Debug\net9.0\ref\AddSeparator.dll

@@ -1,0 +1,14 @@
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\LengthOfString\LengthOfString\bin\Debug\net9.0\LengthOfString.exe
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\LengthOfString\LengthOfString\bin\Debug\net9.0\LengthOfString.deps.json
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\LengthOfString\LengthOfString\bin\Debug\net9.0\LengthOfString.runtimeconfig.json
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\LengthOfString\LengthOfString\bin\Debug\net9.0\LengthOfString.dll
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\LengthOfString\LengthOfString\bin\Debug\net9.0\LengthOfString.pdb
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\LengthOfString\LengthOfString\obj\Debug\net9.0\LengthOfString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\LengthOfString\LengthOfString\obj\Debug\net9.0\LengthOfString.AssemblyInfoInputs.cache
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\LengthOfString\LengthOfString\obj\Debug\net9.0\LengthOfString.AssemblyInfo.cs
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\LengthOfString\LengthOfString\obj\Debug\net9.0\LengthOfString.csproj.CoreCompileInputs.cache
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\LengthOfString\LengthOfString\obj\Debug\net9.0\LengthOfString.dll
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\LengthOfString\LengthOfString\obj\Debug\net9.0\refint\LengthOfString.dll
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\LengthOfString\LengthOfString\obj\Debug\net9.0\LengthOfString.pdb
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\LengthOfString\LengthOfString\obj\Debug\net9.0\LengthOfString.genruntimeconfig.cache
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\LengthOfString\LengthOfString\obj\Debug\net9.0\ref\LengthOfString.dll

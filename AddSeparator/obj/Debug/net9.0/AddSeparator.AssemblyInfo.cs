@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AddSeparator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+54e70be3f6f64f8c05222504adf9ec0c9d65cbf0")]
 [assembly: System.Reflection.AssemblyProductAttribute("AddSeparator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AddSeparator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

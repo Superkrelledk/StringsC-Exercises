@@ -1,0 +1,14 @@
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\StringInReverseOrder\StringInReverseOrder\obj\Debug\net9.0\StringInReverseOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\StringInReverseOrder\StringInReverseOrder\obj\Debug\net9.0\StringInReverseOrder.AssemblyInfoInputs.cache
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\StringInReverseOrder\StringInReverseOrder\obj\Debug\net9.0\StringInReverseOrder.AssemblyInfo.cs
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\StringInReverseOrder\StringInReverseOrder\obj\Debug\net9.0\StringInReverseOrder.csproj.CoreCompileInputs.cache
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\StringInReverseOrder\StringInReverseOrder\bin\Debug\net9.0\StringInReverseOrder.exe
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\StringInReverseOrder\StringInReverseOrder\bin\Debug\net9.0\StringInReverseOrder.deps.json
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\StringInReverseOrder\StringInReverseOrder\bin\Debug\net9.0\StringInReverseOrder.runtimeconfig.json
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\StringInReverseOrder\StringInReverseOrder\bin\Debug\net9.0\StringInReverseOrder.dll
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\StringInReverseOrder\StringInReverseOrder\bin\Debug\net9.0\StringInReverseOrder.pdb
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\StringInReverseOrder\StringInReverseOrder\obj\Debug\net9.0\StringInReverseOrder.dll
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\StringInReverseOrder\StringInReverseOrder\obj\Debug\net9.0\refint\StringInReverseOrder.dll
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\StringInReverseOrder\StringInReverseOrder\obj\Debug\net9.0\StringInReverseOrder.pdb
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\StringInReverseOrder\StringInReverseOrder\obj\Debug\net9.0\StringInReverseOrder.genruntimeconfig.cache
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\StringInReverseOrder\StringInReverseOrder\obj\Debug\net9.0\ref\StringInReverseOrder.dll

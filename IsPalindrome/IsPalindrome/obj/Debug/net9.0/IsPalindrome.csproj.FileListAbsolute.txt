@@ -1,0 +1,14 @@
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\IsPalindrome\IsPalindrome\bin\Debug\net9.0\IsPalindrome.exe
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\IsPalindrome\IsPalindrome\bin\Debug\net9.0\IsPalindrome.deps.json
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\IsPalindrome\IsPalindrome\bin\Debug\net9.0\IsPalindrome.runtimeconfig.json
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\IsPalindrome\IsPalindrome\bin\Debug\net9.0\IsPalindrome.dll
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\IsPalindrome\IsPalindrome\bin\Debug\net9.0\IsPalindrome.pdb
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\IsPalindrome\IsPalindrome\obj\Debug\net9.0\IsPalindrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\IsPalindrome\IsPalindrome\obj\Debug\net9.0\IsPalindrome.AssemblyInfoInputs.cache
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\IsPalindrome\IsPalindrome\obj\Debug\net9.0\IsPalindrome.AssemblyInfo.cs
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\IsPalindrome\IsPalindrome\obj\Debug\net9.0\IsPalindrome.csproj.CoreCompileInputs.cache
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\IsPalindrome\IsPalindrome\obj\Debug\net9.0\IsPalindrome.dll
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\IsPalindrome\IsPalindrome\obj\Debug\net9.0\refint\IsPalindrome.dll
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\IsPalindrome\IsPalindrome\obj\Debug\net9.0\IsPalindrome.pdb
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\IsPalindrome\IsPalindrome\obj\Debug\net9.0\IsPalindrome.genruntimeconfig.cache
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\IsPalindrome\IsPalindrome\obj\Debug\net9.0\ref\IsPalindrome.dll
