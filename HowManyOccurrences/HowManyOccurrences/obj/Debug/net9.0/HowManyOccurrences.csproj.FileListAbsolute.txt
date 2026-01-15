@@ -1,0 +1,15 @@
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\HowManyOccurrences\HowManyOccurrences\bin\Debug\net9.0\HowManyOccurrences.exe
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\HowManyOccurrences\HowManyOccurrences\bin\Debug\net9.0\HowManyOccurrences.deps.json
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\HowManyOccurrences\HowManyOccurrences\bin\Debug\net9.0\HowManyOccurrences.runtimeconfig.json
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\HowManyOccurrences\HowManyOccurrences\bin\Debug\net9.0\HowManyOccurrences.dll
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\HowManyOccurrences\HowManyOccurrences\bin\Debug\net9.0\HowManyOccurrences.pdb
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\HowManyOccurrences\HowManyOccurrences\obj\Debug\net9.0\HowManyOccurrences.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\HowManyOccurrences\HowManyOccurrences\obj\Debug\net9.0\HowManyOccurrences.AssemblyInfoInputs.cache
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\HowManyOccurrences\HowManyOccurrences\obj\Debug\net9.0\HowManyOccurrences.AssemblyInfo.cs
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\HowManyOccurrences\HowManyOccurrences\obj\Debug\net9.0\HowManyOccurrences.csproj.CoreCompileInputs.cache
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\HowManyOccurrences\HowManyOccurrences\obj\Debug\net9.0\HowManyOccurrences.sourcelink.json
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\HowManyOccurrences\HowManyOccurrences\obj\Debug\net9.0\HowManyOccurrences.dll
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\HowManyOccurrences\HowManyOccurrences\obj\Debug\net9.0\refint\HowManyOccurrences.dll
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\HowManyOccurrences\HowManyOccurrences\obj\Debug\net9.0\HowManyOccurrences.pdb
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\HowManyOccurrences\HowManyOccurrences\obj\Debug\net9.0\HowManyOccurrences.genruntimeconfig.cache
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\HowManyOccurrences\HowManyOccurrences\obj\Debug\net9.0\ref\HowManyOccurrences.dll
