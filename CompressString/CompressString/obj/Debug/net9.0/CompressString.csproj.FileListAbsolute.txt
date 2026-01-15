@@ -1,0 +1,15 @@
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\CompressString\CompressString\bin\Debug\net9.0\CompressString.exe
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\CompressString\CompressString\bin\Debug\net9.0\CompressString.deps.json
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\CompressString\CompressString\bin\Debug\net9.0\CompressString.runtimeconfig.json
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\CompressString\CompressString\bin\Debug\net9.0\CompressString.dll
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\CompressString\CompressString\bin\Debug\net9.0\CompressString.pdb
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\CompressString\CompressString\obj\Debug\net9.0\CompressString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\CompressString\CompressString\obj\Debug\net9.0\CompressString.AssemblyInfoInputs.cache
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\CompressString\CompressString\obj\Debug\net9.0\CompressString.AssemblyInfo.cs
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\CompressString\CompressString\obj\Debug\net9.0\CompressString.csproj.CoreCompileInputs.cache
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\CompressString\CompressString\obj\Debug\net9.0\CompressString.sourcelink.json
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\CompressString\CompressString\obj\Debug\net9.0\CompressString.dll
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\CompressString\CompressString\obj\Debug\net9.0\refint\CompressString.dll
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\CompressString\CompressString\obj\Debug\net9.0\CompressString.pdb
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\CompressString\CompressString\obj\Debug\net9.0\CompressString.genruntimeconfig.cache
+C:\Users\u50716\Desktop\IntroOpgaverH1\StringsC#Exercises\CompressString\CompressString\obj\Debug\net9.0\ref\CompressString.dll
